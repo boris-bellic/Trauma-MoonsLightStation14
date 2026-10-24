@@ -1,17 +1,17 @@
-guide-entry-hypoports = Hypoports
+guide-entry-hypoports = Hipoportos
 
-guide-entry-genetics = Genetics
-guide-entry-mutations = Mutations list
-guide-entry-xenobiology = Xenobiology
+guide-entry-genetics = Genética
+guide-entry-mutations = Lista de mutações
+guide-entry-xenobiology = Xenobiologia
 
-guide-entry-counterattack = Counter Attack
-guide-entry-tackle = Tackle
-guide-entry-forging = Forging
-guide-entry-fishing = Fishing
-guide-entry-circuits = Circuits
+guide-entry-counterattack = Contra-ataque
+guide-entry-tackle = Enfrentar
+guide-entry-forging = Forja
+guide-entry-fishing = Pesca
+guide-entry-circuits = Circuitos
 guide-entry-chemicompiler = ChemiCompiler
 
-guide-entry-civilian = Civilian Jobs
+guide-entry-civilian = Empregos civis
 
 guide-entry-ranching = Ranching
 
